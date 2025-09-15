@@ -1,0 +1,61 @@
+ProductID,Produto,Categoria,Subcategoria,Marca,PrecoLista,CustoUnitario
+1,Evo Smartphones 001,Eletrônicos,Smartphones,Evo,2623.62,2066.57
+2,Cora Cafeteiras 002,Eletroportáteis,Cafeteiras,Cora,931.99,652.08
+3,Brava Acessórios 003,Eletrônicos,Acessórios,Brava,72.13,42.48
+4,Alpha Skate 004,Esporte & Lazer,Skate,Alpha,187.75,143.92
+5,Delta Smartphones 005,Eletrônicos,Smartphones,Delta,3303.35,2401.6
+6,Alpha Aspiradores 006,Eletroportáteis,Aspiradores,Alpha,277.79,220.14
+7,Giga Bicicletas 007,Esporte & Lazer,Bicicletas,Giga,5145.46,3103.15
+8,Evo Liquidificadores 008,Eletroportáteis,Liquidificadores,Evo,268.19,159.8
+9,Giga Smartphones 009,Eletrônicos,Smartphones,Giga,2412.73,1643.53
+10,Cora Monitores 010,Escritório,Monitores,Cora,1579.86,983.95
+11,Brava Liquidificadores 011,Eletroportáteis,Liquidificadores,Brava,547.7,320.34
+12,Brava Notebooks 012,Eletrônicos,Notebooks,Brava,3814.65,2447.44
+13,Evo Monitores 013,Escritório,Monitores,Evo,1640.17,1224.05
+14,Hera Acessórios 014,Eletrônicos,Acessórios,Hera,83.91,56.94
+15,Giga Bicicletas 015,Esporte & Lazer,Bicicletas,Giga,3921.31,2202.26
+16,Evo Acessórios 016,Eletrônicos,Acessórios,Evo,194.04,114.99
+17,Delta Skate 017,Esporte & Lazer,Skate,Delta,192.28,151.37
+18,Delta Smartphones 018,Eletrônicos,Smartphones,Delta,4396.9,3306.91
+19,Delta Impressoras 019,Escritório,Impressoras,Delta,1039.69,597.22
+20,Evo Notebooks 020,Eletrônicos,Notebooks,Evo,5579.05,3682.39
+21,Fero Ferramentas 021,Casa & Decoração,Ferramentas,Fero,153.73,103.58
+22,Fero Liquidificadores 022,Eletroportáteis,Liquidificadores,Fero,172.35,133.97
+23,Evo Aspiradores 023,Eletroportáteis,Aspiradores,Evo,599.35,428.91
+24,Cora Acessórios 024,Eletrônicos,Acessórios,Cora,114.16,77.63
+25,Delta Mochilas 025,Esporte & Lazer,Mochilas,Delta,309.62,184.6
+26,Giga Liquidificadores 026,Eletroportáteis,Liquidificadores,Giga,780.23,580.32
+27,Delta Cadeiras 027,Escritório,Cadeiras,Delta,1712.27,1324.8
+28,Delta Impressoras 028,Escritório,Impressoras,Delta,1655.59,1292.14
+29,Giga Notebooks 029,Eletrônicos,Notebooks,Giga,2898.22,1736.02
+30,Delta Impressoras 030,Escritório,Impressoras,Delta,494.98,312.5
+31,Fero Mochilas 031,Esporte & Lazer,Mochilas,Fero,243.24,150.28
+32,Hera Aspiradores 032,Eletroportáteis,Aspiradores,Hera,1368.8,874.92
+33,Hera Ferramentas 033,Casa & Decoração,Ferramentas,Hera,288.79,198.02
+34,Cora Liquidificadores 034,Eletroportáteis,Liquidificadores,Cora,241.6,181.33
+35,Evo Aspiradores 035,Eletroportáteis,Aspiradores,Evo,350.64,279.36
+36,Giga Skate 036,Esporte & Lazer,Skate,Giga,651.96,390.97
+37,Cora Impressoras 037,Escritório,Impressoras,Cora,411.6,310.29
+38,Brava Skate 038,Esporte & Lazer,Skate,Brava,609.46,446.28
+39,Cora Smartphones 039,Eletrônicos,Smartphones,Cora,3813.81,2168.19
+40,Giga Aspiradores 040,Eletroportáteis,Aspiradores,Giga,733.93,424.92
+41,Giga Bicicletas 041,Esporte & Lazer,Bicicletas,Giga,5301.83,3742.16
+42,Hera Ferramentas 042,Casa & Decoração,Ferramentas,Hera,331.26,187.46
+43,Alpha Skate 043,Esporte & Lazer,Skate,Alpha,352.14,222.3
+44,Evo Acessórios 044,Eletrônicos,Acessórios,Evo,226.99,161.02
+45,Evo Impressoras 045,Escritório,Impressoras,Evo,2263.15,1511.91
+46,Hera Luminárias 046,Casa & Decoração,Luminárias,Hera,124.25,90.49
+47,Evo Acessórios 047,Eletrônicos,Acessórios,Evo,235.41,162.51
+48,Brava Bicicletas 048,Esporte & Lazer,Bicicletas,Brava,4831.93,3254.06
+49,Delta Cadeiras 049,Escritório,Cadeiras,Delta,1107.96,727.8
+50,Cora Liquidificadores 050,Eletroportáteis,Liquidificadores,Cora,166.52,96.08
+51,Alpha Mochilas 051,Esporte & Lazer,Mochilas,Alpha,93.2,66.09
+52,Hera Skate 052,Esporte & Lazer,Skate,Hera,354.33,239.93
+53,Fero Smartphones 053,Eletrônicos,Smartphones,Fero,4222.7,2585.66
+54,Alpha Impressoras 054,Escritório,Impressoras,Alpha,1261.8,932.33
+55,Brava Aspiradores 055,Eletroportáteis,Aspiradores,Brava,558.88,318.14
+56,Hera Acessórios 056,Eletrônicos,Acessórios,Hera,108.23,63.89
+57,Cora Acessórios 057,Eletrônicos,Acessórios,Cora,281.02,211.34
+58,Hera Aspiradores 058,Eletroportáteis,Aspiradores,Hera,1105.1,848.57
+59,Evo Bicicletas 059,Esporte & Lazer,Bicicletas,Evo,4998.73,2982.45
+60,Giga Mochilas 060,Esporte & Lazer,Mochilas,Giga,454.87,311.51

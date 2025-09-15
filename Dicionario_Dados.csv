@@ -1,0 +1,42 @@
+Tabela,Coluna,Descrição
+Dim_Produto,ProductID,Chave do produto
+Dim_Produto,Produto,Descrição do produto
+Dim_Produto,Categoria,Categoria do produto
+Dim_Produto,Subcategoria,Subcategoria do produto
+Dim_Produto,Marca,Marca do produto
+Dim_Produto,PrecoLista,Preço de lista estimado
+Dim_Produto,CustoUnitario,Custo unitário estimado
+Dim_Cliente,CustomerID,Chave do cliente
+Dim_Cliente,Cliente,Nome do cliente
+Dim_Cliente,Segmento,Varejo/Atacado/Governo/Corporate
+Dim_Cliente,Estado,UF do cliente
+Dim_Cliente,Regiao,Região do cliente
+Dim_Vendedor,SellerID,Chave do vendedor
+Dim_Vendedor,Vendedor,Nome do vendedor
+Dim_Vendedor,Equipe,Equipe/Time de vendas
+Dim_Vendedor,Regiao,Região de atuação
+Dim_Tempo,Data,Data (nível diário)
+Dim_Tempo,Ano,Ano
+Dim_Tempo,Mes,Mês numérico
+Dim_Tempo,NomeMes,Nome do mês
+Dim_Tempo,Trimestre,Trimestre (1-4)
+Fato_Vendas,SaleID,Chave da venda (linha)
+Fato_Vendas,Data,Data da venda
+Fato_Vendas,ProductID,Chave para Dim_Produto
+Fato_Vendas,CustomerID,Chave para Dim_Cliente
+Fato_Vendas,SellerID,Chave para Dim_Vendedor
+Fato_Vendas,Quantidade,Quantidade vendida
+Fato_Vendas,PrecoUnitario,Preço unitário praticado
+Fato_Vendas,DescontoPct,"Percentual de desconto aplicado (0–0,2)"
+Fato_Vendas,CustoUnitario,Custo unitário no momento da venda
+Fato_Vendas,Receita,Receita líquida após desconto
+Fato_Vendas,CustoTotal,Custo total da venda
+Fato_Vendas,Lucro,Lucro (Receita - CustoTotal)
+Fato_Vendas,Canal,"Canal de venda (Loja, E-commerce, etc.)"
+Fato_Vendas,FormaPagamento,"Crédito, Pix, etc."
+Fato_Vendas,Regiao,Região (denormalizada do cliente)
+Fato_Vendas,Estado,UF (denormalizada do cliente)
+Metas_Receita,Ano,Ano da meta
+Metas_Receita,Mes,Mês da meta
+Metas_Receita,Regiao,Região da meta
+Metas_Receita,MetaReceita,Meta de receita do mês por região
